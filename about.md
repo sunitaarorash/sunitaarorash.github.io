@@ -14,6 +14,7 @@ Possess the academic depth and practical experience in creating high quality and
 
 Passionate about capability building, leveraging technology and immersing knowledge into day to day workflow.
 
+
 ### Contact me
 
 reach (at) sunitaarora (dot) us
