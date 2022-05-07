@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Named one of the top 50 leaders in L&D 2019 | Americas by Corinium Global Intelligence. 
+Named one of the top 50 leaders in L&D 2019 - Americas by Corinium Global Intelligence. 
 
 A Learning & Development pioneer with over 20 years of experience working in fortune 500 companies and silicon valley startups. 
 
