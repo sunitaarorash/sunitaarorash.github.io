@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Named one of the top 50 leaders in L&D 2019 | Americas by Corinium Global Intelligence. 
 
-### More Information
+A Learning & Development pioneer with over 20 years of experience working in fortune 500 companies and silicon valley startups. 
 
-A place to include any other types of information that you'd like to include about yourself.
+Adept in learning strategies, leadership development, executive coaching and organization development skills. 
+
+Possess the academic depth and practical experience in creating high quality and unified learning experiences for employees across different levels of management. 
+
+Passionate about capability building, leveraging technology and immersing knowledge into day to day workflow.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+reach (at) sunitaarora (dot) us
